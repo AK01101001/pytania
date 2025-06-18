@@ -1,5 +1,5 @@
 "pytania": {
-  {
+  
   "pytanie1": {
     "pytanie": "test",
     "odp1": "t",
@@ -7,6 +7,6 @@
     "odp3": "s",
     "ok": "1",
     
-    }
+    
   }
 }
