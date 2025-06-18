@@ -1,10 +1,11 @@
 "pytania": {
   {
   "pytanie1": {
-    "odpowiedz1": "",
-    "odpowiedz2": "",
-    "odpowiedz3": "",
-    "ok": "",
+    "pytanie": "test",
+    "odp1": "t",
+    "odp2": "e",
+    "odp3": "s",
+    "ok": "1",
     
     }
   }
